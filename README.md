@@ -1,2 +1,2 @@
 # hello-world
-just a repository
+Keep Passion and Continuous Effort
